@@ -1,0 +1,3 @@
+Email,EmailValid,password,passwordValid,phone,phoneValid,postalCode,postalCodeValid
+a,false,parolaLunga123,true,0723123123,true,400686,true
+a@b.com,true,parolaLunga123,true,0723123123,true,400686,true
