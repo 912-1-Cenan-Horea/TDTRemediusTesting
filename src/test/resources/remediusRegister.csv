@@ -1,3 +1,6 @@
 Email,EmailValid,password,passwordValid,phone,phoneValid,postalCode,postalCodeValid
-a,false,parolaLunga123,true,0723123123,true,400686,true
+a,false,123,false,0123,false,asd,false
 a@b.com,true,parolaLunga123,true,0723123123,true,400686,true
+a@b.com,true, 123, false, 0123, false, 400658, true
+,false,,false,,false,123,true
+,false,,false,,false,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,false
